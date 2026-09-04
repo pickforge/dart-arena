@@ -1,3 +1,8 @@
+> **PickArena is parked.** No active development for now, but nothing is switched off:
+> the CLI, the task corpora and the leaderboard still work, and open issues stay open.
+> The plan is to bring it back as the benchmarking companion of
+> [Pickforge](https://pickforge.dev).
+
 <p align="center">
   <img src="app/assets/branding/pickarena-lockup-horizontal.svg" alt="PickArena" width="560">
 </p>
